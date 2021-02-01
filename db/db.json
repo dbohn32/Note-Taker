@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "id": 1,
+        "title": "Note Taker",
+        "text": "This is my note taker!"
+    }
+]
